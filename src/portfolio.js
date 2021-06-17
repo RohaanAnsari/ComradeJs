@@ -703,8 +703,8 @@ const projects = {
         "You can send mails with a specific category like promotion, social, primary or important and can also receive them like the same way",
       languages: [
         {
-          name: "Redux",
-          iconifyClass: "logos:redux",
+          name: "React",
+          iconifyClass: "logos-react",
         },
         {
           name: "Redux",
