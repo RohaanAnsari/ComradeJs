@@ -487,6 +487,39 @@ const contactPageData = {
 const projects = {
   data: [
     {
+      id: "9",
+      name: "Instagram Clone",
+      url: "https://insta-clone-front-end.herokuapp.com/",
+      description:
+        "Instagram clone with most of its functionality like follow, unfollow, chatting, uploading a post and much more",
+      languages: [
+        {
+          name: "MongoDb",
+          iconifyClass: "vscode-icons:file-type-mongo",
+        },
+        {
+          name: "Express",
+          iconifyClass: "simple-icons:express",
+        },
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "NodeJs",
+          iconifyClass: "logos-nodejs",
+        },
+        {
+          name: "Socket.io",
+          iconifyClass: "cib:socket-io",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos:redux",
+        },
+      ],
+    },
+    {
       id: "0",
       name: "Flipkart Clone",
       url: "https://flipkartfrontend.herokuapp.com/",
