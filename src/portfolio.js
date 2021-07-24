@@ -552,6 +552,31 @@ const projects = {
       ],
     },
     {
+      id: "8",
+      name: "Gmail Clone",
+      url: "https://clone-2bcc4.firebaseapp.com/",
+      description:
+        "You can send mails with a specific category like promotion, social, primary or important and can also receive them like the same way",
+      languages: [
+        {
+          name: "React",
+          iconifyClass: "logos-react",
+        },
+        {
+          name: "Redux",
+          iconifyClass: "logos:redux",
+        },
+        {
+          name: "Material Ui",
+          iconifyClass: "logos:material-ui",
+        },
+        {
+          name: "Firebase",
+          iconifyClass: "logos:firebase",
+        },
+      ],
+    },
+    {
       id: "1",
       name: "Disney+ Clone",
       url: "https://disneyplusclone-84e37.web.app/",
@@ -728,31 +753,7 @@ const projects = {
         }
       ],
     },
-    {
-      id: "8",
-      name: "Gmail",
-      url: "https://clone-2bcc4.firebaseapp.com/",
-      description:
-        "You can send mails with a specific category like promotion, social, primary or important and can also receive them like the same way",
-      languages: [
-        {
-          name: "React",
-          iconifyClass: "logos-react",
-        },
-        {
-          name: "Redux",
-          iconifyClass: "logos:redux",
-        },
-        {
-          name: "Material Ui",
-          iconifyClass: "logos:material-ui",
-        },
-        {
-          name: "Firebase",
-          iconifyClass: "logos:firebase",
-        },
-      ],
-    },
+    
   ],
 };
 
